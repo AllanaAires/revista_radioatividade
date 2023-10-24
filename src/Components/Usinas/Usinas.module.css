@@ -16,10 +16,11 @@
 
 .img_fusao {
   background-image: url("../../img/fusao.jpg");
-  width: 50vw;
-  height: 50vh;
+  width: 55vw;
+  height: 55vh;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   margin: 10px;
 }
 
